@@ -52,11 +52,11 @@ test:
   username: action
   password:
 
-production:
-  adapter: postgresql
+dapter: postgresql
   encoding: unicode
-  database: app_production
-  host:  localhost
   pool: 5
-  username: action
-  password:
+  database: dafaa9ppnkqg3d
+  username: qeiordwpwbsife
+  password: jc2RmL3iyo0OzQ29z3gkPeBsBe
+  host: ec2-50-19-219-235.compute-1.amazonaws.com
+  port: 5432
